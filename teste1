@@ -33,7 +33,7 @@ http://lb.kstream.org/aovivo/HD_BAND_SPORTS/video.m3u8?token=3883e9f074184b6ee3e
 http://lb.kstream.org/aovivo/FHD_BOOMERANG/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="Boomerang HD" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang HD
 http://lb.kstream.org/aovivo/HD_BOOMERANG/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Canal Brasil HD" tvg-logo="https://i.ibb.co/dGDgcDc/canalbrasilb.png" group-title="Filme e Serie",Canal Brasil HD
+#EXTINF:-1 type="stream" tvg-id="Canal Brasil HD" tvg-logo="https://i.ibb.co/dGDgcDc/canalbrasilb.png" group-title="TV Aberta/Notícias",Canal Brasil HD
 http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network FHD" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network FHD
 http://lb.kstream.org/aovivo/FHD_CARTOON_NETWORK/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
