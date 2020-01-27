@@ -187,7 +187,7 @@ http://lb.kstream.org/aovivo/FHD_MULTISHOW/video.m3u8?token=3883e9f074184b6ee3e1
 http://lb.kstream.org/aovivo/HD_MULTISHOW/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="Music Box Brazil FHD" tvg-logo="https://i.ibb.co/rb8wvmv/musicboxbrazil.png" group-title="Entretenimento",Music Box Brazil FHD
 http://lb.kstream.org/aovivo/FHD_MUSICBOX_BRAZIL/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="NBR" tvg-logo="https://i.ibb.co/dPgV5Vs/nbr.png" group-title="TV Aberta",NBR
+#EXTINF:-1 type="stream" tvg-id="NBR" tvg-logo="https://i.ibb.co/dPgV5Vs/nbr.png" group-title="TV Aberta/Notícias",NBR
 http://lb.kstream.org/aovivo/SD_NBR/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="NatGeo Kids FHD" tvg-logo="https://i.ibb.co/m86jr31/natgeokids.png" group-title="Infantil",NatGeo Kids FHD
 http://lb.kstream.org/aovivo/FHD_NAT_GEO_KIDS/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
