@@ -17,13 +17,13 @@ http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=3883e9f074184b6ee
 http://lb.kstream.org/aovivo/SD_BABYTV/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="Baby TV HD" tvg-logo="https://i.ibb.co/yfscShb/babytv.png" group-title="Infantil",Baby TV HD
 http://lb.kstream.org/aovivo/HD_BABY_TV/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta",Band
+#EXTINF:-1 type="stream" tvg-id="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta/Notícias",Band
 http://lb.kstream.org/aovivo/SD_BAND/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Band HD" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta",Band HD
+#EXTINF:-1 type="stream" tvg-id="Band HD" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta/Notícias",Band HD
 http://lb.kstream.org/aovivo/HD_BAND/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Band News HD" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png" group-title="Notícia",Band News HD
+#EXTINF:-1 type="stream" tvg-id="Band News HD" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png" group-title="TV Aberta/Notícias",Band News HD
 http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Band News FHD" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png" group-title="Notícia",Band News FHD
+#EXTINF:-1 type="stream" tvg-id="Band News FHD" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png" group-title="TV Aberta/Notícias",Band News FHD
 http://lb.kstream.org/aovivo/FHD_BAND_NEWS/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="Band Sports FHD" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png" group-title="Esporte",Band Sports FHD
 http://lb.kstream.org/aovivo/FHD_BAND_SPORTS/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
@@ -49,7 +49,7 @@ http://lb.kstream.org/aovivo/FHD_COMBATE/video.m3u8?token=3883e9f074184b6ee3e1d3
 http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="Comedy Central HD" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title="Variedade e Musica",Comedy Central HD
 http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Cultura HD" tvg-logo="https://i.ibb.co/CvvkxnR/tvcultura.png" group-title="TV Aberta",Cultura HD
+#EXTINF:-1 type="stream" tvg-id="Cultura HD" tvg-logo="https://i.ibb.co/CvvkxnR/tvcultura.png" group-title="TV Aberta/Notícias",Cultura HD
 http://lb.kstream.org/aovivo/HD_CULTURA/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="Curta! HD" tvg-logo="https://i.ibb.co/YRKtq0s/curta.png" group-title="Variedade",Curta! HD
 http://lb.kstream.org/aovivo/HD_CURTA/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
@@ -119,23 +119,23 @@ http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=3883e9f074184b6ee3
 http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="Fox Sports 2 HD" tvg-logo="https://i.ibb.co/mtBgHht/foxsports2.png" group-title="Esporte",Fox Sports 2 HD
 http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Futura HD" tvg-logo="https://i.ibb.co/K6zprYB/futura.png" group-title="TV Aberta",Futura HD
+#EXTINF:-1 type="stream" tvg-id="Futura HD" tvg-logo="https://i.ibb.co/K6zprYB/futura.png" group-title="TV Aberta/Notícias",Futura HD
 http://lb.kstream.org/aovivo/HD_FUTURA/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="GNT HD" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png" group-title="Variedade",GNT HD
 http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Globo Brasilia HD" tvg-logo="https://i.ibb.co/XFNf7mT/globodf.png" group-title="TV Aberta",Globo Brasilia HD
+#EXTINF:-1 type="stream" tvg-id="Globo Brasilia HD" tvg-logo="https://i.ibb.co/XFNf7mT/globodf.png" group-title="TV Aberta/Notícias",Globo Brasilia HD
 http://lb.kstream.org/aovivo/HD_GLOBO_BRASILIA/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Globo Rio FHD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta",Globo Rio FHD
+#EXTINF:-1 type="stream" tvg-id="Globo Rio FHD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta/Notícias",Globo Rio FHD
 http://lb.kstream.org/aovivo/FHD_GLOBO_RJ/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Globo Rio HD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta",Globo Rio HD
+#EXTINF:-1 type="stream" tvg-id="Globo Rio HD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta/Notícias",Globo Rio HD
 http://lb.kstream.org/aovivo/HD_GLOBO_RJ/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Globo SP HD" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png" group-title="TV Aberta",Globo SP HD
+#EXTINF:-1 type="stream" tvg-id="Globo SP HD" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png" group-title="TV Aberta/Notícias",Globo SP HD
 http://lb.kstream.org/aovivo/HD_GLOBO_SP/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Globo TV Bahia" tvg-logo="https://i.ibb.co/rfHCD8Q/tvbahia.png" group-title="TV Aberta",Globo TV Bahia
+#EXTINF:-1 type="stream" tvg-id="Globo TV Bahia" tvg-logo="https://i.ibb.co/rfHCD8Q/tvbahia.png" group-title="TV Aberta/Notícias",Globo TV Bahia
 http://lb.kstream.org/aovivo/SD_GLOBO_TV_BAHIA/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="GloboNews FHD" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png" group-title="Notícia",GloboNews FHD
+#EXTINF:-1 type="stream" tvg-id="GloboNews FHD" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png" group-title="TV Aberta/Notícias",GloboNews FHD
 http://lb.kstream.org/aovivo/FHD_GLOBONEWS/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="GloboNews HD" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png" group-title="Notícia",GloboNews HD
+#EXTINF:-1 type="stream" tvg-id="GloboNews HD" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png" group-title="TV Aberta/Notícias",GloboNews HD
 http://lb.kstream.org/aovivo/HD_GLOBONEWS/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="Gloob HD" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png" group-title="Infantil",Gloob HD
 http://lb.kstream.org/aovivo/HD_GLOOB/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
@@ -253,25 +253,25 @@ http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=3883e9f074184b6ee3e1
 http://lb.kstream.org/aovivo/SD_PRIMEBOX_BRASIL/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="Primebox Brasil FHD" tvg-logo="https://i.ibb.co/RPgYRF4/primeboxbrazil.png" group-title="Filme e Serie",Primebox Brasil FHD
 http://lb.kstream.org/aovivo/FHD_PRIMEBOX/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Record BA HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record BA HD
+#EXTINF:-1 type="stream" tvg-id="Record BA HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta/Notícias",Record BA HD
 http://lb.kstream.org/aovivo/HD_RECORD_BA/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Record FHD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record FHD
+#EXTINF:-1 type="stream" tvg-id="Record FHD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta/Notícias",Record FHD
 http://lb.kstream.org/aovivo/FHD_RECORD/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Record News FHD" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title="Notícia",Record News FHD
+#EXTINF:-1 type="stream" tvg-id="Record News FHD" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title="TV Aberta/Notícias",Record News FHD
 http://lb.kstream.org/aovivo/FHD_RECORDNEWS/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Record News HD" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title="Notícia",Record News HD
+#EXTINF:-1 type="stream" tvg-id="Record News HD" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title="TV Aberta/Notícias",Record News HD
 http://lb.kstream.org/aovivo/HD_RECORD_NEWS/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Rede Brasil" tvg-logo="https://i.ibb.co/6Hj9z40/redebrasil.png" group-title="TV Aberta",Rede Brasil
+#EXTINF:-1 type="stream" tvg-id="Rede Brasil" tvg-logo="https://i.ibb.co/6Hj9z40/redebrasil.png" group-title="TV Aberta/Notícias",Rede Brasil
 http://lb.kstream.org/aovivo/SD_REDE_BRASIL/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="Rede Vida" tvg-logo="https://i.ibb.co/w0MnnX5/redevida.png" group-title="TV Aberta",Rede Vida
+#EXTINF:-1 type="stream" tvg-id="Rede Vida" tvg-logo="https://i.ibb.co/w0MnnX5/redevida.png" group-title="TV Aberta/Notícias",Rede Vida
 http://lb.kstream.org/aovivo/SD_REDE_VIDA/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="RedeTV! FHD" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png" group-title="TV Aberta",RedeTV! FHD
+#EXTINF:-1 type="stream" tvg-id="RedeTV! FHD" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png" group-title="TV Aberta/Notícias",RedeTV! FHD
 http://lb.kstream.org/aovivo/FULLHD_REDETV/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="RedeTV! HD" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png" group-title="TV Aberta",RedeTV! HD
+#EXTINF:-1 type="stream" tvg-id="RedeTV! HD" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png" group-title="TV Aberta/Notícias",RedeTV! HD
 http://lb.kstream.org/aovivo/HD_REDETV/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="SBT FHD" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta",SBT FHD
+#EXTINF:-1 type="stream" tvg-id="SBT FHD" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta/Notícias",SBT FHD
 http://lb.kstream.org/aovivo/FHD_SBT/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="SBT HD" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta",SBT HD
+#EXTINF:-1 type="stream" tvg-id="SBT HD" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta/Notícias",SBT HD
 http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="Sony FHD" tvg-logo="https://i.ibb.co/rFxKrFQ/sony.png" group-title="Filme e Serie",Sony FHD
 http://lb.kstream.org/aovivo/FHD_SONY/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
@@ -313,12 +313,12 @@ http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=3883e9f074184b6ee3e1d3e021a
 http://lb.kstream.org/aovivo/FHD_TNT_SERIES/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="TNT Series HD" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png" group-title="Filme e Serie",TNT Series HD
 http://lb.kstream.org/aovivo/HD_TNT_SERIES/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="TV Brasil" tvg-logo="https://i.ibb.co/PgcdPNt/tvbrasil.png" group-title="TV Aberta",TV Brasil
+#EXTINF:-1 type="stream" tvg-id="TV Brasil" tvg-logo="https://i.ibb.co/PgcdPNt/tvbrasil.png" group-title="TV Aberta/Notícias",TV Brasil
 http://lb.kstream.org/aovivo/SD_TV_BRASIL/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="TV Camara" tvg-logo="https://i.ibb.co/WytSmtN/tvcamara.png" group-title="TV Aberta",TV Camara
+#EXTINF:-1 type="stream" tvg-id="TV Camara" tvg-logo="https://i.ibb.co/WytSmtN/tvcamara.png" group-title="TV Aberta/Notícias",TV Camara
 http://lb.kstream.org/aovivo/SD_TV_CAMARA/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 http://lb.kstream.org/aovivo/SD_JORNAL_RECIFE/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
-#EXTINF:-1 type="stream" tvg-id="TV Justica" tvg-logo="https://i.ibb.co/58Yvjj2/tvjustica.png" group-title="TV Aberta",TV Justica
+#EXTINF:-1 type="stream" tvg-id="TV Justica" tvg-logo="https://i.ibb.co/58Yvjj2/tvjustica.png" group-title="TV Aberta/Notícias",TV Justica
 http://lb.kstream.org/aovivo/SD_TV_JUSTICA/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
 #EXTINF:-1 type="stream" tvg-id="TV Ratimbum" tvg-logo="https://i.ibb.co/GvYCgHy/tvratimbum.png" group-title="Infantil",TV Ratimbum
 http://lb.kstream.org/aovivo/SD_TV_RATIMBUM/video.m3u8?token=3883e9f074184b6ee3e1d3e021aaae79
